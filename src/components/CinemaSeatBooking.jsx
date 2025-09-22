@@ -1,5 +1,5 @@
 import React, { useMemo, useState } from "react";
-
+ 
 const CinemaSeatBooking = ({
     layout = {
       rows: 8,
@@ -252,5 +252,6 @@ const CinemaSeatBooking = ({
 };
 
 export default CinemaSeatBooking;
+
 
 
