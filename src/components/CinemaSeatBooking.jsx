@@ -246,10 +246,11 @@ const CinemaSeatBooking = ({
           </div>
         )}
         
-      </div>
+      </div>  
     </div>
   );
 };
 
 export default CinemaSeatBooking;
+
 
